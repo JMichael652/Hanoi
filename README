@@ -1,1 +1,73 @@
-Contains all the lines of the TI-BASIC program "HANOI"
+Readme for repository "Hanoi"
+@author JMichael652
+@version 1.0.0
+
+==========================
+How to use this repository
+==========================
+1. If not done already, choose the option
+   on the GitHub page that says "Download
+   ZIP"
+2. Unzip the downloaded file
+3. Inside will be this file, "README",
+   and the file "HANOI TI-84 Plus Silver
+   Edition.8xp"
+4. The latter file is a TI-BASIC program
+   that can be downloaded onto a TI-83/84
+   calculator or run on an emulator.
+
+======================
+How to run the program
+======================
+1. The program must be downloaded to a
+   TI-83/84 calculator to be run.
+2. To download the program to a
+   calculator, use the free software
+   called "TI Connect" available on the
+   Texas Instruments website at "http://e
+   ducation.ti.com/en/us/software/search/
+   computer-software"
+3. Connect the calculator to the computer
+   then open TI Connect and its TI Device
+   Explorer (make sure the calculator is
+   turned on)
+4. Drag the "HANOI TI-84 Plus Silver
+   Edition.8xp" file to the connected
+   calculator's icon in the Device
+   Explorer to add the send to program to
+   the calculator.
+5. Disconnect the calculator, then press
+   its "PRGM" button
+6. Find the program titled "HANOI", then
+   either press the number to the left of
+   the title or press the down arrow
+   until the number or space to the left
+   of the title is highlighted, and press
+   enter.
+7. The program is now running
+
+===========
+How to play
+===========
+   The game, sometimes called "The Towers
+of Hanoi" or some variation of that, is
+quite simple.  The leftmost pole begins
+with five rings, all of different sizes.
+In order to win, all rings must be moved
+to the rightmost pole.  To move a ring,
+press the number above the pole from
+which to take the ring and then the
+above the pole on which to place the
+ring, then press ENTER to execute the
+action.  You can press CLEAR at any time
+to clear a command that you have not yet
+executed.  If the command is valid, the
+top ring will be taken from the pole
+whose number was typed first and placed
+on the pole whose number was typed last.
+However, no ring can be placed on top of
+a smaller ring.  By only moving rings to
+empty poles or poles containing only
+larger rings, attempt to, step-by-step,
+move every ring to the rightmost pole.
+Upon doing so, you win the game!
